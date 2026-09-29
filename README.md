@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nour-eddine DOUDOU
+# Hi, I'm Nour-eddine DOUDOU
 
 ### Senior Android Engineer
 
@@ -18,7 +18,7 @@ with a strong focus on **architecture, performance and developer experience**.
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```kotlin
 val nourEddine = AndroidEngineer(
